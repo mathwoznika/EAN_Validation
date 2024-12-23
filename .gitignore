@@ -169,7 +169,7 @@ venv.bak/
 dmypy.json
  
 # Data
-/data
+*.xlsx
 
 # Pyre type checker
 .pyre/
